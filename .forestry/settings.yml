@@ -4,12 +4,12 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Carte
 - type: document
   path: carte.json
   label: Carte
   match: "**/*"
-- type: heading
-  label: Carte
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
