@@ -4,12 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Modifier
 - type: document
   path: carte.json
   label: Carte
-  match: "**/*"
-- type: heading
-  label: Modifier
 - type: document
   path: entrees.json
   label: Entrées
