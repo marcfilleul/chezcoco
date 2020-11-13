@@ -1,1 +1,36 @@
-
+{
+  "entrees": [
+    {
+      "nom": "Salade",
+      "description": "C'est bon pour le corps",
+      "prix": 12,
+    },
+    {
+      "nom": "Salade composée",
+      "description": "Y'a plus de choses dedans",
+      "prix": "16",
+    },
+    {
+      "nom": "Salade de folie",
+      "description": "Là on envoie la sauce !",
+      "prix": "22",
+    }
+  ],
+  "plats": [
+    {
+      "nom": "Plat",
+      "description": "C'est bon pour le corps",
+      "prix": 12,
+    },
+    {
+      "nom": "Plat composé",
+      "description": "Y'a plus de choses dedans",
+      "prix": "16",
+    },
+    {
+      "nom": "Plat de folie",
+      "description": "Là on envoie la sauce !",
+      "prix": "22",
+    }
+  ]
+}
