@@ -9,7 +9,6 @@ sections:
 - type: document
   path: entrees.json
   label: Entrées
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

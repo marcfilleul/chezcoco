@@ -1,3 +1,17 @@
 [
-    {"nom":"Salade","description":"C'est bon pour le corps","prix":12}
+  {
+    "nom": "Salade",
+    "description": "C'est bon pour le corps",
+    "prix": 12
+  },
+  {
+    "nom": "Salade composée",
+    "description": "Y'a plus de choses dedans",
+    "prix": "16"
+  },
+  {
+    "nom": "Salade de folie",
+    "description": "Là on envoie la sauce !",
+    "prix": "22"
+  }
 ]
