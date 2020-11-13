@@ -1,19 +1,19 @@
 {
 "items": [
   {
-    "type": "entree"
+    "type": "entree",
     "nom": "Salade",
     "description": "C'est bon pour le corps",
     "prix": 12
   },
   {
-    "type": "entree"
+    "type": "entree",
     "nom": "Salade composée",
     "description": "Y'a plus de choses dedans",
     "prix": "16"
   },
   {
-    "type": "plat"
+    "type": "plat",
     "nom": "Salade de folie",
     "description": "Là on envoie la sauce !",
     "prix": "22"
