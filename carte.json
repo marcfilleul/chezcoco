@@ -1,6 +1,7 @@
 {
-  "type": [
+  "categories": [
     {
+      "nom": "entrees",
       "entrees": [
         {
           "nom": "Salade",
@@ -17,7 +18,10 @@
           "description": "Là on envoie la sauce !",
           "prix": "22"
         }
-      ],
+      ]
+    },
+    {
+      "nom": "plats",
       "plats": [
         {
           "nom": "Plat",
