@@ -1,12 +1,8 @@
 {
-  "categories": [
+  "rubriques": [
     {
-      "nom": "Desserts",
-      "entrees": ""
-    },
-    {
-      "nom": "entrees",
-      "entrees": [
+      "nom": "Entrées",
+      "produits": [
         {
           "nom": "Salade",
           "description": "C'est bon pour le corps",
@@ -25,8 +21,8 @@
       ]
     },
     {
-      "nom": "plats",
-      "plats": [
+      "nom": "Plats",
+      "produits": [
         {
           "nom": "Plat",
           "description": "C'est bon pour le corps",
