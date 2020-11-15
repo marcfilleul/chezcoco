@@ -1,6 +1,10 @@
 {
   "categories": [
     {
+      "nom": "Desserts",
+      "entrees": ""
+    },
+    {
       "nom": "entrees",
       "entrees": [
         {
