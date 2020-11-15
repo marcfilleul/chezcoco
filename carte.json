@@ -39,6 +39,16 @@
           "prix": "22"
         }
       ]
+    },
+    {
+      "nom": "Desserts",
+      "produits": [
+        {
+          "nom": "Mousse au chocolat",
+          "description": "Trop bonne",
+          "prix": "8"
+        }
+      ]
     }
   ]
 }
